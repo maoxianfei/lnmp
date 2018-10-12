@@ -1,2 +1,2 @@
-# lnmp
-自动化环境搭建nginx/php/node/redis
+# install.sh
+shell 脚本搭建环境 nginx/php/node/redis
